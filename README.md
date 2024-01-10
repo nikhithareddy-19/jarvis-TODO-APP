@@ -1,5 +1,5 @@
 The project includes a user friendly TODO list app
-## The app name is jarvis(Just a Rather Very Intelligent System)
+## The app name is JARVIS ( Just a Rather Very Intelligent System )
 Features: 
 -> The Title of task with an optional Description 
 -> And user can set the Due date.
@@ -12,25 +12,25 @@ Features:
 
 ## Screen shots of todolist app:
 ## Home Screen
-! [Home Screen](assets/images/homescreen.jpeg)
+![Home Screen](assets/images/homescreen.jpeg)
 
 ## Aligning tasks
-! [Aligning tasks](assets/images/aligningtasks.jpeg)
+![Aligning tasks](assets/images/aligningtasks.jpeg)
 
 ## Creating new Todo
-! [Creating new Todo](assets/images/addingtodo.jpeg)
+![Creating new Todo](assets/images/addingtodo.jpeg)
 
 ## Sample task creation
-! [Sample task creation](assets/images/sampletaskcreation.jpeg)
+![Sample task creation](assets/images/sampletaskcreation.jpeg)
 
 ## Deletion of task
-! [Deletion of task](assets/images/deletionoftask.jpeg)
+![Deletion of task](assets/images/deletionoftask.jpeg)
 
 ## Sorting by status
-! [Sorting by status](assets/images/sortbystatus.jpeg)
+![Sorting by status](assets/images/sortbystatus.jpeg)
 
 ## Sorting by Priority
-! [Sorting by Priority](assets/images/sortingbypriority.jpeg)
+![Sorting by Priority](assets/images/sortingbypriority.jpeg)
 
 ## Sorting by Due Dates
-! [Sorting by Due Dates](assets/images/sortingbyduedates.jpeg)
+![Sorting by Due Dates](assets/images/sortingbyduedates.jpeg)
