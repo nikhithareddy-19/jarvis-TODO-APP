@@ -12,25 +12,25 @@ Features:
 
 ## Screen shots of todolist app:
 ## Home Screen
-![Home Screen](assets/images/homescreen.jpeg)
+<img src='assets/images/homescreen.jpeg' height='600'>
 
 ## Aligning tasks
-![Aligning tasks](assets/images/aligningtasks.jpeg)
+<img src='assets/images/aligningtasks.jpeg' height='600'>
 
 ## Creating new Todo
-![Creating new Todo](assets/images/addingtodo.jpeg)
+<img src='assets/images/addingtodo.jpeg' height='600'>
 
 ## Sample task creation
-![Sample task creation](assets/images/sampletaskcreation.jpeg)
+<img src='assets/images/sampletaskcreation.jpeg' height='600'>
 
 ## Deletion of task
-![Deletion of task](assets/images/deletionoftask.jpeg)
+<img src='assets/images/deletionoftask.jpeg' height='600'>
 
 ## Sorting by status
-![Sorting by status](assets/images/sortbystatus.jpeg)
+<img src='assets/images/sortbystatus.jpeg' height='600'>
 
 ## Sorting by Priority
-![Sorting by Priority](assets/images/sortingbypriority.jpeg)
+<img src='assets/images/sortingbypriority.jpeg' height='600'>
 
 ## Sorting by Due Dates
-![Sorting by Due Dates](assets/images/sortingbyduedates.jpeg)
+<img src='assets/images/sortingbyduedates.jpeg' height='600'>
